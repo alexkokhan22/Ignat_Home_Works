@@ -1,5 +1,6 @@
 .superInput {
-
+    border: 3px solid lime;
+    outline: none;
 }
 
 .errorInput {
@@ -9,4 +10,5 @@
 
 .error {
     color: red;
+    font-weight: 600;
 }
