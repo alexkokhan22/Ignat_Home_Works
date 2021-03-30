@@ -9,9 +9,7 @@ function App() {
     return (
         <div className={s.App}>
             <div>react homeworks:</div>
-            {/*<Clock/>*/}
-            <HW9/>
-            <HW10/>
+            <HW5/>
         </div>
     );
 }
